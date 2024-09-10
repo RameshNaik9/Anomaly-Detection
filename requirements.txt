@@ -1,0 +1,16 @@
+torch
+torchvision
+numpy
+opencv-python
+scikit-learn
+matplotlib
+tqdm
+Pillow
+
+
+Instructions:
+
+# 1. Enter Anomaly detection Folder
+# 2. cd vis
+# 3. python video2frame.py --n video_file_name.mp4
+# 4. python vis.py --n video_file_name
